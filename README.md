@@ -1,1 +1,1 @@
-Resume written in HTML
+My personal resume written in HTML.
